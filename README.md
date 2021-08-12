@@ -1,5 +1,6 @@
 ##COVID-19/SARS B-cell Epitope Prediction
-project data [link](https://www.kaggle.com/futurecorporation/epitope-prediction
+
+Project data [link](https://www.kaggle.com/futurecorporation/epitope-prediction
 )
 
 See `epitope_predict_notebook` folder for more results and details
