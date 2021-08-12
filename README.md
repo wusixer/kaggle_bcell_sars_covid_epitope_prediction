@@ -1,4 +1,4 @@
-##COVID-19/SARS B-cell Epitope Prediction
+## COVID-19/SARS B-cell Epitope Prediction
 
 Project data [link](https://www.kaggle.com/futurecorporation/epitope-prediction
 )
