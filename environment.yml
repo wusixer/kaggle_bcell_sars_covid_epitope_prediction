@@ -1,0 +1,23 @@
+name: predict_epitope
+channels:
+        - conda-forge
+        - bioconda
+        - anaconda
+dependencies:
+        - matplotlib
+        - seaborn
+        - pytorch
+        - tensorflow
+        - keras
+        - python
+        - pandas
+        - jupyter
+        - jupyter_nbextensions_configurator
+        - jupyter_contrib_nbextensions
+        - pip
+        - pip:
+                - git+https://github.com/ElArkk/jax-unirep.git
+                - jax==0.1.57
+                - jaxlib==0.1.37
+                - autoreload
+                - jax-loss 
